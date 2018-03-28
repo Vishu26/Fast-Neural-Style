@@ -1,0 +1,9 @@
+*.tif
+.idea/
+.ipynb_checkpoints/
+*.pyc
+.cache/
+__pycache__/
+*.pkl
+*.tar
+weights
