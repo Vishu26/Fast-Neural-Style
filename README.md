@@ -10,4 +10,8 @@ Here are some example outputs from these models:
   <img src='img2.jpg' height="174px">
   <img src='img3.png' height="174px">
   <img src='img4.jpg' height='174px'>
+  <img src='img5.jpg' height='174px'>
+  <img src='img6.jpg' height='174px'>
+  <img src='img7.jpg' height='174px'>
+  <img src='img8.jpg' height='174px'>
 </div>
